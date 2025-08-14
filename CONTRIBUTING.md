@@ -1,0 +1,1 @@
+This is a file which displays contribution of each member in the project.
