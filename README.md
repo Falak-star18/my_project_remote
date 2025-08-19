@@ -6,3 +6,4 @@ In addition to local Git operations, this project also introduces essential comm
 Once a remote is added, you can use git push to upload your local commits to the remote repository, making your changes accessible to other team members. Similarly, the git pull command is used to fetch and merge updates from the remote repository into your local project, ensuring you’re always working with the latest version of the code.
 By completing this project, you will gain confidence in creating new files, modifying existing ones tracking changes through version control, using Git in both solo and collaborative environments, laying the groundwork for more advanced Git workflows such as remote repositories, pull requests, and rebasing.
 Updated README file.
+Added a comment to README.md file.
